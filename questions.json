@@ -1,0 +1,112 @@
+[
+        {
+            "question": "In the past month, how often have you been upset because of something that happened unexpectedly?",
+            "positive": 0,
+            "answers": [
+                "Never",
+                "Almost_Never",
+                "Sometimes",
+                "Fairly_offen",
+                "Very_offen"
+            ]
+        },
+        {
+            "question": "In the past month, how often have you felt unable to control the important things in your life?",
+            "positive": 0,
+            "answers": [
+                "Never",
+                "Almost_Never",
+                "Sometimes",
+                "Fairly_offen",
+                "Very_offen"
+            ]
+        },
+        {
+            "question": "In the past month, how often have you felt nervous or stressed?",
+            "positive": 0,
+            "answers": [
+                "Never",
+                "Almost_Never",
+                "Sometimes",
+                "Fairly_offen",
+                "Very_offen"
+            ]
+        },
+        {
+            "question": "In the past month, how often have you felt confident about your ability to handle personal problems? ",
+            "positive": 0,
+            "answers": [
+                "Never",
+                "Almost_Never",
+                "Sometimes",
+                "Fairly_offen",
+                "Very_offen"
+            ]
+        },
+        {
+            "question": "In the past month, how often have you felt that things were going your way?",
+            "positive": 1,
+            "answers": [
+                "Never",
+                "Almost_Never",
+                "Sometimes",
+                "Fairly_offen",
+                "Very_offen"
+            ]
+        },
+        {
+            "question": "In the past month, how often have you found that you could not cope with all the things you had to do?",
+            "positive": 1,
+            "answers": [
+                "Never",
+                "Almost_Never",
+                "Sometimes",
+                "Fairly_offen",
+                "Very_offen"
+            ]
+        },
+        {
+            "question": "In the past month, how often have you been able to control irritations in your life?",
+            "positive": 0,
+            "answers": [
+                "Never",
+                "Almost_Never",
+                "Sometimes",
+                "Fairly_offen",
+                "Very_offen"
+            ]
+        },
+        {
+            "question": "In the past month, how often have you felt that you were on top of things?",
+            "positive": 0,
+            "answers": [
+                "Never",
+                "Almost_Never",
+                "Sometimes",
+                "Fairly_offen",
+                "Very_offen"
+            ]
+        },
+        {
+            "question": "In the past month, how often have you been angry because of things that happened that were outside of your control?",
+            "positive": 0,
+            "answers": [
+                "Never",
+                "Almost_Never",
+                "Sometimes",
+                "Fairly_offen",
+                "Very_offen"
+            ]
+        },
+        {
+            "question": "In the past month, how often have you felt that difficulties were piling up so high that you could not overcome them?",
+            "positive": 0,
+            "answers": [
+                "Never",
+                "Almost_Never",
+                "Sometimes",
+                "Fairly_offen",
+                "Very_offen"
+            ]
+        }
+    ]
